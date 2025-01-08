@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url('background.jpg');
+}
+button{
+    background: #efc9ef;
+    color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 15px;
+    position: ;
+}
+button:hover{
+    background: transparent;
+    color: white;
+    outline: 1px solid #fff;
+}
